@@ -9,7 +9,7 @@ MD5sum: 884fe35c8958ee66a4d9c6d58d5bf945
 SHA1: a70a5da9d61af5bedc784df256deb8660e83f8d4
 SHA256: a745cb4a5233a45a6fdeecfe81ebafc8d7adb8ea19d75fbd2966489847f54fc3
 Section: Tweaks
-Description: Turns on the screen when the currently playing song changes.
+Description: Turns on the screen when the currently playing song changes
 Author: Youssef Mikhail <ymiscool@hotmail.com>
 Name: WakeTunes
 
@@ -26,7 +26,7 @@ SHA256: cdf8404c3b087fef07c030e670960da8b0d7d7dead6e963da2ac80f6cf8e58af
 Section: Tweaks
 Description: Remove that annoying delay when pressing the home button on the lock screen to bring up the passcode screen.
 Author: Youssef Mikhail <ymiscool@hotmail.com>
-Name: Accelerated Unlock
+Name: FasterUnlock
 
 Package: com.ruler225.iamnogenius
 Version: 0.0.3
