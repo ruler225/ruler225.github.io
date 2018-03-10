@@ -39,7 +39,7 @@ MD5sum: 290f6e76c88f63ad7dfd72d55ba71d3c
 SHA1: 94b7bb504a02041106bdb6d8d883f0f213b83d38
 SHA256: 4037e97a609ef0e6ae1b150abf17b737c2bfee2e39b23d134627d5af3b88ba27
 Section: Tweaks
-Description: Disable Genius/Behind the Lyrics in Spotify
+Description: Disable GeniusBehind the Lyrics in Spotify
 Author: Youssef Mikhail <ymiscool@hotmail.com>
 Name: IamNoGenius
 
