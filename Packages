@@ -44,15 +44,15 @@ Author: Youssef Mikhail <ymiscool@hotmail.com>
 Name: IamNoGenius
 
 Package: com.ruler225.videohud
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Youssef Mikhail <ymiscool@hotmail.com>
 Depends: mobilesubstrate, firmware (>=11.0)
-Filename: debs//com.ruler225.videohud_1.0_iphoneos-arm.deb
-Size: 6412
-MD5sum: 4615aa80cf68172a73dcd7a7138d9e58
-SHA1: 0c210671b36e81b81203a03753d8c8f00ce73afe
-SHA256: 1c8b30a693fa06e41ab2a204d044df2a5a9fb2e60b0f24a8e65a5c4102da6b3c
+Filename: debs//com.ruler225.videohud_1.1_iphoneos-arm.deb
+Size: 11346
+MD5sum: 72baeaa165e5438cffacd8936ce784bd
+SHA1: 7b5695cda93e46fd37e9114c8a8d5b6ae0d4d615
+SHA256: 8050e18037a869960ba432b33c9d40ef0d954e8e7fc219cc2623c1e032925aba
 Section: Tweaks
 Description: Implement the volume HUD from the iOS 11 video player systemwide!
 Author: Youssef Mikhail <ymiscool@hotmail.com>
