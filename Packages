@@ -1,108 +1,112 @@
-Package: com.ruler225.waketunes
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: Youssef Mikhail <ymiscool@hotmail.com>
-Depends: mobilesubstrate, preferenceloader, firmware (>=9.0)
-Filename: debs//com.ruler225.waketunes_1.2_iphoneos-arm.deb
-Size: 12362
-MD5sum: 884fe35c8958ee66a4d9c6d58d5bf945
-SHA1: a70a5da9d61af5bedc784df256deb8660e83f8d4
-SHA256: a745cb4a5233a45a6fdeecfe81ebafc8d7adb8ea19d75fbd2966489847f54fc3
-Section: Tweaks
-Description: Turns on the screen when the currently playing song changes
-Author: Youssef Mikhail <ymiscool@hotmail.com>
-Name: WakeTunes
-
 Package: com.ruler225.fasterunlock
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Youssef Mikhail <ymiscool@hotmail.com>
-Depends: mobilesubstrate, firmware (>=10.0)
-Filename: debs//com.ruler225.fasterunlock_1.0_iphoneos-arm.deb
+Maintainer: Youssef Mikhail
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./debs/com.ruler225.fasterunlock_1.0_iphoneos-arm.deb
 Size: 2828
 MD5sum: 89ea9c5a20b853799fa5bc73827f71d7
 SHA1: dd75348e35983e9a9e66a60bd5d6285b32b815fd
 SHA256: cdf8404c3b087fef07c030e670960da8b0d7d7dead6e963da2ac80f6cf8e58af
 Section: Tweaks
 Description: Remove that annoying delay when pressing the home button on the lock screen to bring up the passcode screen.
-Author: Youssef Mikhail <ymiscool@hotmail.com>
-Name: Accelerated Unlock
+Author: Youssef Mikhail
+Name: FasterUnlock
 
 Package: com.ruler225.iamnogenius
 Version: 0.0.3
 Architecture: iphoneos-arm
-Maintainer: Youssef Mikhail <ymiscool@hotmail.com>
+Maintainer: Youssef Mikhail
+Installed-Size: 120
 Depends: mobilesubstrate
-Filename: debs//com.ruler225.iamnogenius_0.0.3_iphoneos-arm.deb
+Filename: ./debs/com.ruler225.iamnogenius_0.0.3_iphoneos-arm.deb
 Size: 2620
 MD5sum: 290f6e76c88f63ad7dfd72d55ba71d3c
 SHA1: 94b7bb504a02041106bdb6d8d883f0f213b83d38
 SHA256: 4037e97a609ef0e6ae1b150abf17b737c2bfee2e39b23d134627d5af3b88ba27
 Section: Tweaks
 Description: Disable Genius/Behind the Lyrics in Spotify
-Author: Youssef Mikhail <ymiscool@hotmail.com>
+Author: Youssef Mikhail
 Name: IamNoGenius
 
 Package: com.ruler225.videohud
-Version: 1.1
+Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Youssef Mikhail <ymiscool@hotmail.com>
+Maintainer: Youssef Mikhail
+Installed-Size: 120
 Depends: mobilesubstrate, firmware (>=11.0)
-Filename: debs//com.ruler225.videohud_1.1_iphoneos-arm.deb
+Filename: ./debs/com.ruler225.videohud_1.0_iphoneos-arm.deb
+Size: 6412
+MD5sum: 4615aa80cf68172a73dcd7a7138d9e58
+SHA1: 0c210671b36e81b81203a03753d8c8f00ce73afe
+SHA256: 1c8b30a693fa06e41ab2a204d044df2a5a9fb2e60b0f24a8e65a5c4102da6b3c
+Section: Tweaks
+Description: Implement the volume HUD from the iOS 11 video player systemwide!
+Author: Youssef Mikhail
+Name: VideoHUD
+
+Package: com.ruler225.videohud
+Version: 1.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: Youssef Mikhail
+Installed-Size: 124
+Depends: mobilesubstrate, firmware (>=11.0)
+Filename: ./debs/com.ruler225.videohud_1.1_iphoneos-arm.deb
 Size: 11346
 MD5sum: 72baeaa165e5438cffacd8936ce784bd
 SHA1: 7b5695cda93e46fd37e9114c8a8d5b6ae0d4d615
 SHA256: 8050e18037a869960ba432b33c9d40ef0d954e8e7fc219cc2623c1e032925aba
 Section: Tweaks
 Description: Implement the volume HUD from the iOS 11 video player systemwide!
-Author: Youssef Mikhail <ymiscool@hotmail.com>
+Author: Youssef Mikhail
 Name: VideoHUD
 
 Package: com.ruler225.videohud
-Version: 1.2
+Version: 1.2-3+debug
 Architecture: iphoneos-arm
-Maintainer: Youssef Mikhail <ymiscool@hotmail.com>
+Maintainer: Youssef Mikhail
+Installed-Size: 124
 Depends: mobilesubstrate, firmware (>=11.0)
-Filename: debs//com.ruler225.videohud_1.2_iphoneos-arm.deb
+Filename: ./debs/com.ruler225.videohud_1.2_iphoneos-arm.deb
 Size: 11344
 MD5sum: 68e4c3706c52e79da733aafa9f5b20ea
 SHA1: 94d6b51618d46f65300322d586c8b73f80b7334c
 SHA256: 9687cca8ab8c4e4235b2ac131ff1b43a5229602f6c7c542b442e114b817071c2
 Section: Tweaks
 Description: Implement the volume HUD from the iOS 11 video player systemwide!
-Author: Youssef Mikhail <ymiscool@hotmail.com>
+Author: Youssef Mikhail
 Name: VideoHUD
 
 Package: com.ruler225.videohud
-Version: 1.3
+Version: 1.3-1+debug
 Architecture: iphoneos-arm
-Maintainer: Youssef Mikhail <ymiscool@hotmail.com>
+Maintainer: Youssef Mikhail
+Installed-Size: 124
 Depends: mobilesubstrate, firmware (>=11.0)
-Filename: debs//com.ruler225.videohud_1.3_iphoneos-arm.deb
+Filename: ./debs/com.ruler225.videohud_1.3_iphoneos-arm.deb
 Size: 11552
 MD5sum: 1131e16d8487fbbcfcf3f044761670fa
 SHA1: a47e7f4760008de24b599e0def26a64ac937217a
 SHA256: 60c1aed830c86c2b3a12429bc18878aadb7cb34595dc70068e6c806e005f760c
 Section: Tweaks
-Description: iOS 11 Video HUD systemwide!
-	Implement the volume HUD from the iOS 11 video player systemwide!
-	
-	Changelog for v1.3: Fix broken right-to-left language support
-Author: Youssef Mikhail <ymiscool@hotmail.com>
+Description: Implement the volume HUD from the iOS 11 video player systemwide!
+Author: Youssef Mikhail
 Name: VideoHUD
 
 Package: com.ruler225.videohud
-Version: 1.4
+Version: 1.4-1+debug
 Architecture: iphoneos-arm
-Maintainer: Youssef Mikhail <ymiscool@hotmail.com>
+Maintainer: Youssef Mikhail
+Installed-Size: 124
 Depends: mobilesubstrate, firmware (>=11.0)
-Filename: debs//com.ruler225.videohud_1.4_iphoneos-arm.deb
+Filename: ./debs/com.ruler225.videohud_1.4_iphoneos-arm.deb
 Size: 12398
 MD5sum: c18e41c1a670e9bce3468524ee66094d
 SHA1: 6f5915e5b681427d27ad697ad07f356228b43636
 SHA256: 5f04b3a947083b1123c8f2cbe431ede19a0451c886408107394c4cf6f85b1e56
 Section: Tweaks
-Description: iOS 11 Video HUD systemwide!
+Description: iOS 11 Video HUD systemwide! 
 	Implement the volume HUD from the iOS 11 video player systemwide!
 	
 	Changelog for v1.3: 
@@ -110,5 +114,22 @@ Description: iOS 11 Video HUD systemwide!
 	Changelog for v1.4:
 	- Position the HUD in the top left-hand corner for right-to-left languages
 	- Added a dedicated icon when changing the ringer volume or ringer switch
-Author: Youssef Mikhail <ymiscool@hotmail.com>
+Author: Youssef Mikhail
 Name: VideoHUD
+
+Package: com.ruler225.waketunes
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Youssef Mikhail
+Installed-Size: 260
+Depends: mobilesubstrate, preferenceloader, firmware (>=9.0)
+Filename: ./debs/com.ruler225.waketunes_1.2_iphoneos-arm.deb
+Size: 12362
+MD5sum: 884fe35c8958ee66a4d9c6d58d5bf945
+SHA1: a70a5da9d61af5bedc784df256deb8660e83f8d4
+SHA256: a745cb4a5233a45a6fdeecfe81ebafc8d7adb8ea19d75fbd2966489847f54fc3
+Section: Tweaks
+Description: Turns on the screen when the currently playing song changes.
+Author: Youssef Mikhail
+Name: WakeTunes
+
