@@ -90,3 +90,25 @@ Description: iOS 11 Video HUD systemwide!
 	Changelog for v1.3: Fix broken right-to-left language support
 Author: Youssef Mikhail <ymiscool@hotmail.com>
 Name: VideoHUD
+
+Package: com.ruler225.videohud
+Version: 1.4
+Architecture: iphoneos-arm
+Maintainer: Youssef Mikhail <ymiscool@hotmail.com>
+Depends: mobilesubstrate, firmware (>=11.0)
+Filename: debs//com.ruler225.videohud_1.4_iphoneos-arm.deb
+Size: 12398
+MD5sum: c18e41c1a670e9bce3468524ee66094d
+SHA1: 6f5915e5b681427d27ad697ad07f356228b43636
+SHA256: 5f04b3a947083b1123c8f2cbe431ede19a0451c886408107394c4cf6f85b1e56
+Section: Tweaks
+Description: iOS 11 Video HUD systemwide!
+	Implement the volume HUD from the iOS 11 video player systemwide!
+	
+	Changelog for v1.3: 
+	- Fix broken right-to-left language support
+	Changelog for v1.4:
+	- Position the HUD in the top left-hand corner for right-to-left languages
+	- Added a dedicated icon when changing the ringer volume or ringer switch
+Author: Youssef Mikhail <ymiscool@hotmail.com>
+Name: VideoHUD
