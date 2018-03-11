@@ -84,6 +84,7 @@ MD5sum: 1131e16d8487fbbcfcf3f044761670fa
 SHA1: a47e7f4760008de24b599e0def26a64ac937217a
 SHA256: 60c1aed830c86c2b3a12429bc18878aadb7cb34595dc70068e6c806e005f760c
 Section: Tweaks
-Description: Implement the volume HUD from the iOS 11 video player systemwide!\nChangelog for v1.3: Fix broken right-to-left language support
+Description: Implement the volume HUD from the iOS 11 video player systemwide!
+	Changelog for v1.3: Fix broken right-to-left language support
 Author: Youssef Mikhail <ymiscool@hotmail.com>
 Name: VideoHUD
