@@ -106,14 +106,39 @@ MD5sum: c18e41c1a670e9bce3468524ee66094d
 SHA1: 6f5915e5b681427d27ad697ad07f356228b43636
 SHA256: 5f04b3a947083b1123c8f2cbe431ede19a0451c886408107394c4cf6f85b1e56
 Section: Tweaks
-Description: iOS 11 Video HUD systemwide! 
-	Implement the volume HUD from the iOS 11 video player systemwide!
-	
-	Changelog for v1.3: 
-	- Fix broken right-to-left language support
-	Changelog for v1.4:
-	- Position the HUD in the top left-hand corner for right-to-left languages
-	- Added a dedicated icon when changing the ringer volume or ringer switch
+Description: Implement the volume HUD from the iOS 11 video player systemwide!
+Author: Youssef Mikhail
+Name: VideoHUD
+
+Package: com.ruler225.videohud
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: Youssef Mikhail
+Installed-Size: 128
+Depends: mobilesubstrate, firmware (>=11.0)
+Filename: ./debs/com.ruler225.videohud_2.1_iphoneos-arm.deb
+Size: 13084
+MD5sum: 94dfc667bc03ea7e163dd130c606d099
+SHA1: 0dd4f6139651571eca5e454258d16ce31e53ca8c
+SHA256: b53b22d8401eee3056236352f5edf3745a930fc16938590c3f1fb42514cb7562
+Section: Tweaks
+Description: Implement the volume HUD from the iOS 11 video player systemwide!
+Author: Youssef Mikhail
+Name: VideoHUD
+
+Package: com.ruler225.videohud
+Version: 2.1-9+debug
+Architecture: iphoneos-arm
+Maintainer: Youssef Mikhail
+Installed-Size: 128
+Depends: mobilesubstrate, firmware (>=11.0)
+Filename: ./debs/com.ruler225.videohud_2.1-9+debug_iphoneos-arm.deb
+Size: 13314
+MD5sum: f27870260e8d6cf145187594129eefcd
+SHA1: 79de1985e822a859f94c61fcdde4d28302b3cd5b
+SHA256: 9698dd2624048c120c03d5ace559075a4c72bdf18c2c172e9d5aaf5a498eb678
+Section: Tweaks
+Description: Implement the volume HUD from the iOS 11 video player systemwide!
 Author: Youssef Mikhail
 Name: VideoHUD
 
