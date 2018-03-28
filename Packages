@@ -1,7 +1,7 @@
 Package: com.ruler225.fasterunlock
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Youssef Mikhail
+Maintainer: Youssef Mikhail <ymiscool@hotmail.com>
 Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.ruler225.fasterunlock_1.0_iphoneos-arm.deb
@@ -11,13 +11,13 @@ SHA1: dd75348e35983e9a9e66a60bd5d6285b32b815fd
 SHA256: cdf8404c3b087fef07c030e670960da8b0d7d7dead6e963da2ac80f6cf8e58af
 Section: Tweaks
 Description: Remove that annoying delay when pressing the home button on the lock screen to bring up the passcode screen.
-Author: Youssef Mikhail
+Author: Youssef Mikhail <ymiscool@hotmail.com>
 Name: FasterUnlock
 
 Package: com.ruler225.iamnogenius
 Version: 0.0.3
 Architecture: iphoneos-arm
-Maintainer: Youssef Mikhail
+Maintainer: Youssef Mikhail <ymiscool@hotmail.com>
 Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.ruler225.iamnogenius_0.0.3_iphoneos-arm.deb
@@ -27,13 +27,13 @@ SHA1: 94b7bb504a02041106bdb6d8d883f0f213b83d38
 SHA256: 4037e97a609ef0e6ae1b150abf17b737c2bfee2e39b23d134627d5af3b88ba27
 Section: Tweaks
 Description: Disable Genius/Behind the Lyrics in Spotify
-Author: Youssef Mikhail
+Author: Youssef Mikhail <ymiscool@hotmail.com>
 Name: IamNoGenius
 
 Package: com.ruler225.videohud
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Youssef Mikhail
+Maintainer: Youssef Mikhail <ymiscool@hotmail.com>
 Installed-Size: 120
 Depends: mobilesubstrate, firmware (>=11.0)
 Filename: ./debs/com.ruler225.videohud_1.0_iphoneos-arm.deb
@@ -43,7 +43,7 @@ SHA1: 0c210671b36e81b81203a03753d8c8f00ce73afe
 SHA256: 1c8b30a693fa06e41ab2a204d044df2a5a9fb2e60b0f24a8e65a5c4102da6b3c
 Section: Tweaks
 Description: Implement the volume HUD from the iOS 11 video player systemwide!
-Author: Youssef Mikhail
+Author: Youssef Mikhail <ymiscool@hotmail.com>
 Name: VideoHUD
 
 Package: com.ruler225.videohud
@@ -145,7 +145,7 @@ Name: VideoHUD
 Package: com.ruler225.waketunes
 Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: Youssef Mikhail
+Maintainer: Youssef Mikhail <ymiscool@hotmail.com>
 Installed-Size: 260
 Depends: mobilesubstrate, preferenceloader, firmware (>=9.0)
 Filename: ./debs/com.ruler225.waketunes_1.2_iphoneos-arm.deb
@@ -155,6 +155,6 @@ SHA1: a70a5da9d61af5bedc784df256deb8660e83f8d4
 SHA256: a745cb4a5233a45a6fdeecfe81ebafc8d7adb8ea19d75fbd2966489847f54fc3
 Section: Tweaks
 Description: Turns on the screen when the currently playing song changes.
-Author: Youssef Mikhail
+Author: Youssef Mikhail <ymiscool@hotmail.com>
 Name: WakeTunes
 
