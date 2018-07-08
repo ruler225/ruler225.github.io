@@ -1,7 +1,7 @@
 Package: com.ruler225.fasterunlock
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Youssef Mikhail <ymiscool@hotmail.com>
+Maintainer: Youssef Mikhail
 Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.ruler225.fasterunlock_1.0_iphoneos-arm.deb
@@ -11,13 +11,13 @@ SHA1: dd75348e35983e9a9e66a60bd5d6285b32b815fd
 SHA256: cdf8404c3b087fef07c030e670960da8b0d7d7dead6e963da2ac80f6cf8e58af
 Section: Tweaks
 Description: Remove that annoying delay when pressing the home button on the lock screen to bring up the passcode screen.
-Author: Youssef Mikhail <ymiscool@hotmail.com>
+Author: Youssef Mikhail
 Name: FasterUnlock
 
 Package: com.ruler225.iamnogenius
 Version: 0.0.3
 Architecture: iphoneos-arm
-Maintainer: Youssef Mikhail <ymiscool@hotmail.com>
+Maintainer: Youssef Mikhail
 Installed-Size: 120
 Depends: mobilesubstrate
 Filename: ./debs/com.ruler225.iamnogenius_0.0.3_iphoneos-arm.deb
@@ -27,13 +27,13 @@ SHA1: 94b7bb504a02041106bdb6d8d883f0f213b83d38
 SHA256: 4037e97a609ef0e6ae1b150abf17b737c2bfee2e39b23d134627d5af3b88ba27
 Section: Tweaks
 Description: Disable Genius/Behind the Lyrics in Spotify
-Author: Youssef Mikhail <ymiscool@hotmail.com>
+Author: Youssef Mikhail
 Name: IamNoGenius
 
 Package: com.ruler225.videohud
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Youssef Mikhail <ymiscool@hotmail.com>
+Maintainer: Youssef Mikhail
 Installed-Size: 120
 Depends: mobilesubstrate, firmware (>=11.0)
 Filename: ./debs/com.ruler225.videohud_1.0_iphoneos-arm.deb
@@ -43,7 +43,7 @@ SHA1: 0c210671b36e81b81203a03753d8c8f00ce73afe
 SHA256: 1c8b30a693fa06e41ab2a204d044df2a5a9fb2e60b0f24a8e65a5c4102da6b3c
 Section: Tweaks
 Description: Implement the volume HUD from the iOS 11 video player systemwide!
-Author: Youssef Mikhail <ymiscool@hotmail.com>
+Author: Youssef Mikhail
 Name: VideoHUD
 
 Package: com.ruler225.videohud
@@ -129,7 +129,7 @@ Name: VideoHUD
 Package: com.ruler225.videohud
 Version: 2.1-9+debug
 Architecture: iphoneos-arm
-Maintainer: Youssef Mikhail <ymiscool@hotmail.com>
+Maintainer: Youssef Mikhail
 Installed-Size: 128
 Depends: mobilesubstrate, firmware (>=11.0)
 Filename: ./debs/com.ruler225.videohud_2.1-9+debug_iphoneos-arm.deb
@@ -139,13 +139,45 @@ SHA1: 79de1985e822a859f94c61fcdde4d28302b3cd5b
 SHA256: 9698dd2624048c120c03d5ace559075a4c72bdf18c2c172e9d5aaf5a498eb678
 Section: Tweaks
 Description: Implement the volume HUD from the iOS 11 video player systemwide!
+Author: Youssef Mikhail
+Name: VideoHUD
+
+Package: com.ruler225.videohud
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Youssef Mikhail
+Installed-Size: 128
+Depends: mobilesubstrate, firmware (>=11.0)
+Filename: ./debs/com.ruler225.videohud_2.2_iphoneos-arm.deb
+Size: 13308
+MD5sum: 35646762ca9148aa95e08f659477960e
+SHA1: 464a478accbefda8591ab13c2a19ae9f6a584c7c
+SHA256: 181ad4ee6f5e1ffccd98baa76956978a6969147a807d2c84308a0b3995c1cb44
+Section: Tweaks
+Description: Implement the volume HUD from the iOS 11 video player systemwide!
+Author: Youssef Mikhail
+Name: VideoHUD
+
+Package: com.ruler225.videohud
+Version: 2.2-5
+Architecture: iphoneos-arm
+Maintainer: Youssef Mikhail <ymiscool@hotmail.com>
+Installed-Size: 128
+Depends: mobilesubstrate, firmware (>=11.0)
+Filename: ./debs/com.ruler225.videohud_2.2-5_iphoneos-arm.deb
+Size: 13920
+MD5sum: 61a7786a8c1a8269703d9cdc9941b96e
+SHA1: e14eafbcb777b0777713024cd6473d29eed74a12
+SHA256: d9f6afa3c87366e11ff3baa2aaf951b3718c9bdab0fa48ecec794e5cf9ee0325
+Section: Tweaks
+Description: Implement the volume HUD from the iOS 11 video player systemwide!
 Author: Youssef Mikhail <ymiscool@hotmail.com>
 Name: VideoHUD
 
 Package: com.ruler225.waketunes
 Version: 1.2
 Architecture: iphoneos-arm
-Maintainer: Youssef Mikhail <ymiscool@hotmail.com>
+Maintainer: Youssef Mikhail
 Installed-Size: 260
 Depends: mobilesubstrate, preferenceloader, firmware (>=9.0)
 Filename: ./debs/com.ruler225.waketunes_1.2_iphoneos-arm.deb
@@ -155,6 +187,6 @@ SHA1: a70a5da9d61af5bedc784df256deb8660e83f8d4
 SHA256: a745cb4a5233a45a6fdeecfe81ebafc8d7adb8ea19d75fbd2966489847f54fc3
 Section: Tweaks
 Description: Turns on the screen when the currently playing song changes.
-Author: Youssef Mikhail <ymiscool@hotmail.com>
+Author: Youssef Mikhail
 Name: WakeTunes
 
