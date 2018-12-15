@@ -30,6 +30,22 @@ Description: Disable Genius/Behind the Lyrics in Spotify
 Author: Youssef Mikhail
 Name: IamNoGenius
 
+Package: com.ruler225.stickyqueue
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Youssef Mikhail <ymiscool@hotmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.ruler225.stickyqueue_0.0.1_iphoneos-arm.deb
+Size: 3042
+MD5sum: 0bded2f56033b4223aa5bf4d71fd22cd
+SHA1: a78ada81ffe943b996d69fc23807eb0852883b88
+SHA256: 003c7eac0d57df6f49e444248f31b2dfaa055b4645ff9d2f1c77220c413bed44
+Section: Tweaks
+Description: Adds queued songs in Spotify to Up Next instead of the queue.
+Author: Youssef Mikhail <ymiscool@hotmail.com>
+Name: StickyQueue
+
 Package: com.ruler225.videohud
 Version: 1.0
 Architecture: iphoneos-arm
