@@ -46,6 +46,22 @@ Description: Adds queued songs in Spotify to Up Next instead of the queue.
 Author: Youssef Mikhail <ymiscool@hotmail.com>
 Name: StickyQueue
 
+Package: com.ruler225.terriblehud
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Youssef Mikhail <ymiscool@hotmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.ruler225.terriblehud_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3720
+MD5sum: e414bf445a0b7c5e0d1eb5b3a861e560
+SHA1: 520cb2e45cda75aa0f2be76ca9b83f9af61920e7
+SHA256: 168f7bac26630cc018f2c4b615547f3f6602131aa806ea367c908c3e7645c23b
+Section: Tweaks
+Description: I have it on good authority that this is Apple's next planned HUD Design. This tweak is your exclusive preview to Apple's design plans in iOS 13!
+Author: Youssef Mikhail <ymiscool@hotmail.com>
+Name: TerribleHUD
+
 Package: com.ruler225.videohud
 Version: 1.0
 Architecture: iphoneos-arm
