@@ -207,16 +207,16 @@ Author: Youssef Mikhail <ymiscool@hotmail.com>
 Name: VideoHUD
 
 Package: com.ruler225.videohud
-Version: 2.4
+Version: 2.3-1+debug
 Architecture: iphoneos-arm
 Maintainer: Youssef Mikhail <ymiscool@hotmail.com>
 Installed-Size: 112
 Depends: mobilesubstrate, firmware (>=11.0)
-Filename: ./debs/com.ruler225.videohud_2.4_iphoneos-arm.deb
-Size: 10666
-MD5sum: 44f8df74e26b3daea6778d64340e022f
-SHA1: ccadacafb91ade9a9238676386334f4ce51afc6a
-SHA256: 79448179426773cc9878ff4eb6696d72aa808d969076f66409919ba4fa39167f
+Filename: ./debs/com.ruler225.videohud_2.3-1+debug_iphoneos-arm.deb
+Size: 10674
+MD5sum: 5cc8a645d2f1e94f1a4d24000406e79f
+SHA1: 3ea994b46e896bd1dc38ee96fad124fb6f8fa890
+SHA256: e460089492ead5f7e07db4c412b54c6c1cc6cbf4b4883ce234ef9e68bcaff060
 Section: Tweaks
 Description: Implement the volume HUD from the iOS 11 video player systemwide!
 Author: Youssef Mikhail <ymiscool@hotmail.com>
